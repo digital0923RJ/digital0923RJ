@@ -21,7 +21,7 @@ Here, you’ll find a collection of my projects and experiences in data science,
 - [Data Analysis: Statistical Modeling and Computation in Applications]
 - [Probability - The Science of Uncertainty and Data] 
 
-## Data Science - Kaggle Project 
+## [Data Science - Kaggle Project](https://github.com/digital0923RJ/MITx-MicroMasters-Program-in-Statistics-and-Data-Science)
 - [Classification with an Academic Success Dataset]
 - [Regression with a Flood Prediction Dataset]
 - [Exploring Mental Health Data]
