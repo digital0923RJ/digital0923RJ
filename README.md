@@ -15,13 +15,13 @@ Here, you’ll find a collection of my projects and experiences in data science,
 - Tools & Platforms: Jupyter Notebook, Git, AWS, MLflow
 - Data Visualization: Matplotlib, Seaborn, Tableau
   
-## Data Science - MIT (Micro-Master) 
+## [Data Science - MIT (Micro-Master)]((https://github.com/digital0923RJ/MITx-MicroMasters-Program-in-Statistics-and-Data-Science)) 
 - [Machine Learning with Python-From Linear Models to Deep Learning]
 - [Fundamentals of Statistics]
 - [Data Analysis: Statistical Modeling and Computation in Applications]
 - [Probability - The Science of Uncertainty and Data] 
 
-## [Data Science - Kaggle Project](https://github.com/digital0923RJ/MITx-MicroMasters-Program-in-Statistics-and-Data-Science)
+## [Data Science - Kaggle Project]
 - [Classification with an Academic Success Dataset]
 - [Regression with a Flood Prediction Dataset]
 - [Exploring Mental Health Data]
