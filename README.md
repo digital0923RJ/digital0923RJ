@@ -16,9 +16,9 @@ Here, you’ll find a collection of my projects and experiences in data science,
 - Data Visualization: Matplotlib, Seaborn, Tableau
   
 ## [Data Science - MIT (Micro-Master)](https://github.com/digital0923RJ/MITx-MicroMasters-Program-in-Statistics-and-Data-Science) 
-- [Machine Learning with Python-From Linear Models to Deep Learning](https://github.com/digital0923RJ/MITx-MicroMasters-Program-in-Statistics-and-Data-Science/tree/Data_Analysis_Statistical_modeling)
+- [Machine Learning with Python-From Linear Models to Deep Learning](https://github.com/digital0923RJ/MITx-MicroMasters-Program-in-Statistics-and-Data-Science/tree/Machine-Learning-Projects)
 - [Fundamentals of Statistics]
-- [Data Analysis: Statistical Modeling and Computation in Applications]
+- [Data Analysis: Statistical Modeling and Computation in Applications](https://github.com/digital0923RJ/MITx-MicroMasters-Program-in-Statistics-and-Data-Science/tree/Data_Analysis_Statistical_modeling)
 - [Probability - The Science of Uncertainty and Data] 
 
 ## [Data Science - Kaggle Project]
