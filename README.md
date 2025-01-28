@@ -9,9 +9,9 @@ Data Scientist with expertise in managing large datasets, building models, and c
 - Data Visualization: Matplotlib, Seaborn, Tableau
   
 ## [Data Science - MIT (Micro-Master)](https://github.com/digital0923RJ/MITx-MicroMasters-Program-in-Statistics-and-Data-Science) 
-- Machine Learning with Python-From Linear Models to Deep Learning](https://github.com/digital0923RJ/MITx-MicroMasters-Program-in-Statistics-and-Data-Science/tree/Machine-Learning-Projects
+- Machine Learning with Python-From Linear Models to Deep Learning
 - Fundamentals of Statistics
-- Data Analysis: Statistical Modeling and Computation in Applications](https://github.com/digital0923RJ/MITx-MicroMasters-Program-in-Statistics-and-Data-Science/tree/Data_Analysis_Statistical_modeling
+- Data Analysis: Statistical Modeling and Computation in Applications
 - Probability - The Science of Uncertainty and Data
 
 ## [Data Science - Kaggle Project]
