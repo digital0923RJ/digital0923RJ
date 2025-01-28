@@ -14,16 +14,16 @@ Data Scientist with expertise in managing large datasets, building models, and c
 - Data Analysis: Statistical Modeling and Computation in Applications
 - Probability - The Science of Uncertainty and Data
 
-## [Data Science - Kaggle Project]
+## [Data Science - Kaggle Project](https://github.com/digital0923RJ/Kaggle-Project)
 - Classification with an Academic Success Dataset
 - Regression with a Flood Prediction Dataset
 - Exploring Mental Health Data
 
-## [Data Science - Personal Project] 
+## [Data Science - Personal Project](https://github.com/digital0923RJ/Personal-Projects) 
 - Crypto automated trading
 - Crop Image Classification
 
-## [Seoul-Cyber-University-Assigment]
+## [Seoul-Cyber-University-Assigment](https://github.com/digital0923RJ/Seoul-Cyber-University-Assigment)
 - [Data_Analysis_and_Visualization] assignment.ipynb
 - [Data_Analysis_and_Visualization] final exam.ipynb
 - [Data_Analysis_and_Visualization]Midterm Exam - Unfinished Problem-Solving Program].ipynb
